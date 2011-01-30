@@ -84,7 +84,6 @@
             int index = (row * cols) + col;
 			
 			Tile *arse = tileForFrame[index];
-			NSLog(@"redrawing tile %d from array position %d", [arse tileIndex], index);
 			//remake frame
 			CGRect frame = CGRectMake(TILE_MARGIN + col * (TILE_MARGIN + TILE_WIDTH),
 									  TILE_MARGIN + row * (TILE_MARGIN + TILE_HEIGHT),
@@ -263,13 +262,16 @@
         
         float dx = point.x - CGRectGetMidX(frame);
         float dy = point.y - CGRectGetMidY(frame);
-        
+		NSLog(@"held tile %d", heldFrameIndex);
+        NSLog(@"dx %f \t dy %f");
         float dist = (dx * dx) + (dy * dy);
         if (dist < minDist) {
+
             index = i;
             minDist = dist;
         }
     }
+	NSLog(@"Closest Frame to point? %d",index);
     return index;
 }
 

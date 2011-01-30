@@ -1,0 +1,392 @@
+TLightroom
+v7
+r0
+t318046236.372318
+cCheck dependencies
+cProcessInfoPlistFile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Info.plist Lightroom-Info.plist
+cCompileXIB /Users/kevingriffin/Development/Lightroom/MainWindow.xib
+cCompileXIB /Users/kevingriffin/Development/Lightroom/LightroomViewController.xib
+cCpResource build/Debug-iphonesimulator/Lightroom.app/TilesIcon.png TilesIcon.png
+cProcessPCH /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch.gch Lightroom_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/main.o /Users/kevingriffin/Development/Lightroom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomAppDelegate.o /Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomViewController.o /Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Tile.o /Users/kevingriffin/Development/Lightroom/Classes/Tile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/CALayer+Additions.o /Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/NSString+Additions.o /Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom normal i386
+cGenerateDSYMFile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app.dSYM /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom
+cTouch /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAGradientLayer.h
+c000000004BD1D01F00000000000006A1
+t1272041503
+s1697
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h
+c000000004BD1D01F00000000000072AD
+t1272041503
+s29357
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.h
+c000000004B6CEBA700000000000000A6
+t1265429415
+s166
+i<Foundation/Foundation.h>
+i<QuartzCore/CALayer.h>
+
+N/Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m
+c000000004B6CEBA700000000000000FD
+t1265429415
+s253
+i"CALayer+Additions.h"
+
+N/Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.h
+c000000004D442FD100000000000001F0
+t1296314321
+s496
+i<UIKit/UIKit.h>
+
+N/Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m
+c000000004D441F8700000000000007B9
+t1296310151
+s1977
+i"LightroomAppDelegate.h"
+i"LightroomViewController.h"
+
+N/Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.h
+c000000004D44C70D0000000000000352
+t1296353037
+s850
+i<UIKit/UIKit.h>
+
+N/Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m
+c000000004D44C5880000000000002089
+t1296352648
+s8329
+i"LightroomViewController.h"
+i"Tile.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.h
+c000000004B6CEBA700000000000000B6
+t1265429415
+s182
+i<Foundation/Foundation.h>
+
+N/Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m
+c000000004B6CEBA7000000000000020F
+t1265429415
+s527
+i"NSString+Additions.h"
+
+N/Users/kevingriffin/Development/Lightroom/Classes/Tile.h
+c000000004B6CEBA7000000000000015D
+t1265429415
+s349
+i<Foundation/Foundation.h>
+i<QuartzCore/CAGradientLayer.h>
+i"CALayer+Additions.h"
+
+N/Users/kevingriffin/Development/Lightroom/Classes/Tile.m
+c000000004B6CEBA70000000000000B71
+t1265429415
+s2929
+i"Tile.h"
+i"NSString+Additions.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kevingriffin/Development/Lightroom/LightroomViewController.xib
+c000000004D442BC50000000000004F33
+t1296313285
+s20275
+
+N/Users/kevingriffin/Development/Lightroom/Lightroom_Prefix.pch
+c000000004D441F8700000000000000BB
+t1296310151
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kevingriffin/Development/Lightroom/MainWindow.xib
+c000000004D441F870000000000004D1D
+t1296310151
+s19741
+
+N/Users/kevingriffin/Development/Lightroom/TilesIcon.png
+c000000004B6B7D2800000000000017A0
+t1265335592
+s6048
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app
+t1296353436
+s272
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app.dSYM
+t1296353436
+s102
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Info.plist
+t1296313288
+s806
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom
+t1296353436
+s37400
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/LightroomViewController.nib
+t1296313288
+s1409
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/MainWindow.nib
+t1296313288
+s1127
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/PkgInfo
+t1296313288
+s8
+
+N/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/TilesIcon.png
+t1296314025
+s6048
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/CALayer+Additions.o
+t1296314025
+s7280
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Lightroom.LinkFileList
+c000000004D442EA90000000000000344
+t1296314025
+s836
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomAppDelegate.o
+t1296353436
+s45412
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomViewController.o
+t1296353436
+s61484
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/NSString+Additions.o
+t1296314025
+s7844
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Tile.o
+t1296314025
+s18732
+
+N/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/main.o
+t1296313289
+s6308
+
+N/Users/kevingriffin/Development/Lightroom/main.m
+c000000004D441F870000000000000170
+t1296310151
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch.gch
+t1296313289
+s13825936
+
+NLightroom-Info.plist
+c000000004D441F8700000000000004D6
+t1296310151
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318046236#318046236#0(0"0(0#1#0"8620916768#0"0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/CALayer+Additions.o /Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318006825.674341
+e318006825.739133
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/CALayer+Additions.o
+x/Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m318006825#318006825#0(0"0(0#0#69"/Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m8607354688#2062"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/Classes/CALayer+Additions.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/CALayer+Additions.o0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomAppDelegate.o /Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318046236.225741
+e318046236.302673
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomAppDelegate.o
+x/Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m318046236#318046236#0(0"0(0#0#72"/Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m8619105248#2068"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/Classes/LightroomAppDelegate.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomAppDelegate.o0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomViewController.o /Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318046236.226544
+e318046236.334476
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomViewController.o
+x/Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m318046236#318046236#0(0"0(0#0#75"/Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m8618698816#2074"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/Classes/LightroomViewController.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/LightroomViewController.o0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/NSString+Additions.o /Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318006825.739239
+e318006825.792300
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/NSString+Additions.o
+x/Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m318006825#318006825#0(0"0(0#0#70"/Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m8606621152#2064"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/Classes/NSString+Additions.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/NSString+Additions.o0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Tile.o /Users/kevingriffin/Development/Lightroom/Classes/Tile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318006825.673379
+e318006825.759301
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Tile.o
+x/Users/kevingriffin/Development/Lightroom/Classes/Tile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kevingriffin/Development/Lightroom/Classes/Tile.m318006825#318006825#0(0"0(0#0#56"/Users/kevingriffin/Development/Lightroom/Classes/Tile.m8607961408#2036"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/Classes/Tile.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Tile.o0#
+
+CCompileC build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/main.o /Users/kevingriffin/Development/Lightroom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318006089.182514
+e318006089.295428
+r1
+xCompileC
+xbuild/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/main.o
+x/Users/kevingriffin/Development/Lightroom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/kevingriffin/Development/Lightroom/main.m318006089#318006089#0(0"0(0#0#48"/Users/kevingriffin/Development/Lightroom/main.m8611290560#2028"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -include /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch -c /Users/kevingriffin/Development/Lightroom/main.m -o /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kevingriffin/Development/Lightroom/LightroomViewController.xib
+s318006088.015980
+e318006088.430417
+r1
+xCompileXIB
+x/Users/kevingriffin/Development/Lightroom/LightroomViewController.xib
+lSLF07#2@38"CompileXIB LightroomViewController.xib318006088#318006088#0(0"0(0#0#69"/Users/kevingriffin/Development/Lightroom/LightroomViewController.xib8608144256#607"    cd /Users/kevingriffin/Development/Lightroom    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/LightroomViewController.nib /Users/kevingriffin/Development/Lightroom/LightroomViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/kevingriffin/Development/Lightroom/MainWindow.xib
+s318006088.015166
+e318006088.423347
+r1
+xCompileXIB
+x/Users/kevingriffin/Development/Lightroom/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318006088#318006088#0(0"0(0#0#56"/Users/kevingriffin/Development/Lightroom/MainWindow.xib8608285184#581"    cd /Users/kevingriffin/Development/Lightroom    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/MainWindow.nib /Users/kevingriffin/Development/Lightroom/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Lightroom.app/TilesIcon.png TilesIcon.png
+s318006825.665437
+e318006825.672885
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Lightroom.app/TilesIcon.png
+xTilesIcon.png
+lSLF07#2@18"Copy TilesIcon.png318006825#318006825#0(0"0(0#0#55"/Users/kevingriffin/Development/Lightroom/TilesIcon.png8608307712#468"    cd /Users/kevingriffin/Development/Lightroom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kevingriffin/Development/Lightroom/TilesIcon.png /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app0#
+
+CGenerateDSYMFile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app.dSYM /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom
+s318046236.354758
+e318046236.370014
+r1
+xGenerateDSYMFile
+x/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app.dSYM
+x/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Lightroom.app.dSYM build/Debug-iphonesimulator/Lightroom.app/Lightroom318046236#318046236#0(0"0(0#0#93"/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom8616140736#398"    cd /Users/kevingriffin/Development/Lightroom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom -o /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app.dSYM0#
+
+CLd /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom normal i386
+s318046236.334568
+e318046236.354656
+r1
+xLd
+x/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom
+xnormal
+xi386
+lSLF07#2@98"Link /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom318046236#318046236#0(0"0(0#0#0"8617590784#947"    cd /Users/kevingriffin/Development/Lightroom    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -filelist /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Objects-normal/i386/Lightroom.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Lightroom0#
+
+CProcessInfoPlistFile /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Info.plist Lightroom-Info.plist
+s318006087.982356
+e318006088.015077
+r1
+xProcessInfoPlistFile
+x/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Info.plist
+xLightroom-Info.plist
+lSLF07#2@28"Process Lightroom-Info.plist318006088#318006088#0(0"0(0#0#62"/Users/kevingriffin/Development/Lightroom/Lightroom-Info.plist29555065834897524#494"    cd /Users/kevingriffin/Development/Lightroom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Lightroom-Info.plist -genpkginfo /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app/Info.plist0#
+
+CProcessPCH /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch.gch Lightroom_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318006088.430618
+e318006089.182380
+r1
+xProcessPCH
+x/var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch.gch
+xLightroom_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Lightroom_Prefix.pch318006088#318006089#0(0"0(0#0#62"/Users/kevingriffin/Development/Lightroom/Lightroom_Prefix.pch6876274730516899840#1915"    cd /Users/kevingriffin/Development/Lightroom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-generated-files.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-own-target-headers.hmap -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-all-target-headers.hmap -iquote /Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/Lightroom-project-headers.hmap -F/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator -I/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/include -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources/i386 -I/Users/kevingriffin/Development/Lightroom/build/Lightroom.build/Debug-iphonesimulator/Lightroom.build/DerivedSources -c /Users/kevingriffin/Development/Lightroom/Lightroom_Prefix.pch -o /var/folders/5W/5WNvqL7dFzmKsSHrAMpjAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lightroom_Prefix-henrrbxxrrdytyhebjxjwywxbgkh/Lightroom_Prefix.pch.gch0#
+
+CTouch /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app
+s318046236.370091
+e318046236.372293
+r1
+xTouch
+x/Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app
+lSLF07#2@89"Touch /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app318046236#318046236#0(0"0(0#0#0"8616970336#286"    cd /Users/kevingriffin/Development/Lightroom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kevingriffin/Development/Lightroom/build/Debug-iphonesimulator/Lightroom.app0#
+

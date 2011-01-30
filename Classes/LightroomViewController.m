@@ -153,7 +153,6 @@
         touchStartLocation = [[touches anyObject] locationInView:self.view];
         heldStartPosition = tile.position;
         heldFrameIndex = [self frameIndexForTileIndex:tile.tileIndex];
-        
         [tile moveToFront];
         [tile appearDraggable];
     }
@@ -184,12 +183,12 @@
 
 
 - (void)moveUnheldTilesAwayFromPoint:(CGPoint)location {
+	//bug!
     int frameIndex = [self indexOfClosestFrameToPoint:location];
+	NSLog(@"frame index %d",frameIndex);
+	NSLog(@"held frame index %d", heldFrameIndex);
     if (frameIndex != heldFrameIndex) {
         [CATransaction begin];
-        
-		NSLog(@"frame Index %d", frameIndex);
-		NSLog(@"held frame Index %d", heldFrameIndex);
 		
         if (frameIndex < heldFrameIndex) {
             for (int i = heldFrameIndex; i > frameIndex; --i) {
@@ -256,6 +255,7 @@
 
 
 - (int)indexOfClosestFrameToPoint:(CGPoint)point {
+	//still on the bug trail
     int index = 0;
     float minDist = FLT_MAX;
     for (int i = 0; i < DEFAULT_TILE_COUNT; ++i) {

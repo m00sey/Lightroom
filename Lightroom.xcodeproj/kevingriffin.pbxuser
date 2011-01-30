@@ -70,7 +70,7 @@
 	013D1E5912F465CF00256227 /* CALayer+Additions.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1538, 567}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavSelRange = "{132, 0}";
 			sepNavVisRange = "{0, 253}";
 		};
 	};
@@ -1221,7 +1221,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 140";
 		rLen = 0;
-		rLoc = 4758;
+		rLoc = 4749;
 		rType = 0;
 		vrLen = 1455;
 		vrLoc = 3660;
@@ -1231,7 +1231,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 140";
 		rLen = 0;
-		rLoc = 4758;
+		rLoc = 4749;
 		rType = 0;
 		vrLen = 1412;
 		vrLoc = 3660;
@@ -1241,7 +1241,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 140";
 		rLen = 0;
-		rLoc = 4758;
+		rLoc = 4749;
 		rType = 0;
 		vrLen = 492;
 		vrLoc = 3660;
@@ -1261,7 +1261,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 140";
 		rLen = 0;
-		rLoc = 4758;
+		rLoc = 4749;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 613;
@@ -1271,7 +1271,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 265";
 		rLen = 0;
-		rLoc = 8238;
+		rLoc = 8251;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 6708;
@@ -1281,7 +1281,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 265";
 		rLen = 0;
-		rLoc = 8238;
+		rLoc = 8251;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 6708;
@@ -1291,7 +1291,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 265";
 		rLen = 0;
-		rLoc = 8238;
+		rLoc = 8251;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 6708;
@@ -1421,7 +1421,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1280;
 		vrLoc = 5257;
@@ -1431,7 +1431,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1226;
 		vrLoc = 5311;
@@ -1441,7 +1441,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 544;
 		vrLoc = 5257;
@@ -1451,7 +1451,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1293;
 		vrLoc = 5150;
@@ -1461,7 +1461,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 5257;
@@ -1471,7 +1471,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 204";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 544;
 		vrLoc = 5257;
@@ -2205,7 +2205,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 221";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1323;
 		vrLoc = 5515;
@@ -2215,7 +2215,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 221";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1283;
 		vrLoc = 5555;
@@ -2225,7 +2225,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 221";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 581;
 		vrLoc = 5515;
@@ -2265,7 +2265,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1065;
 		vrLoc = 5992;
@@ -2275,7 +2275,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 1041;
 		vrLoc = 6016;
@@ -2285,7 +2285,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 3470;
@@ -2295,7 +2295,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 853;
 		vrLoc = 7095;
@@ -2305,7 +2305,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 7111;
@@ -2315,7 +2315,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6697;
 		rType = 0;
 		vrLen = 369;
 		vrLoc = 7095;
@@ -2575,7 +2575,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 225";
 		rLen = 0;
-		rLoc = 6765;
+		rLoc = 6752;
 		rType = 0;
 		vrLen = 1278;
 		vrLoc = 5867;
@@ -2585,7 +2585,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 225";
 		rLen = 0;
-		rLoc = 6765;
+		rLoc = 6752;
 		rType = 0;
 		vrLen = 1171;
 		vrLoc = 5974;
@@ -2595,7 +2595,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 225";
 		rLen = 0;
-		rLoc = 6765;
+		rLoc = 6752;
 		rType = 0;
 		vrLen = 565;
 		vrLoc = 5867;
@@ -2605,7 +2605,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 157";
 		rLen = 0;
-		rLoc = 4758;
+		rLoc = 4749;
 		rType = 0;
 		vrLen = 1417;
 		vrLoc = 4763;
@@ -2621,8 +2621,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 188";
-		rLen = 823;
-		rLoc = 5647;
+		rLen = 725;
+		rLoc = 5732;
 		rType = 0;
 		vrLen = 1417;
 		vrLoc = 5097;
@@ -2631,8 +2631,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 188";
-		rLen = 823;
-		rLoc = 5647;
+		rLen = 725;
+		rLoc = 5732;
 		rType = 0;
 		vrLen = 1415;
 		vrLoc = 5099;
@@ -2641,8 +2641,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 188";
-		rLen = 823;
-		rLoc = 5647;
+		rLen = 725;
+		rLoc = 5732;
 		rType = 0;
 		vrLen = 609;
 		vrLoc = 5645;
@@ -2652,7 +2652,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 187";
 		rLen = 14;
-		rLoc = 5629;
+		rLoc = 5714;
 		rType = 0;
 		vrLen = 1379;
 		vrLoc = 5099;
@@ -2699,7 +2699,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 210";
 		rLen = 0;
-		rLoc = 6498;
+		rLoc = 6485;
 		rType = 0;
 		vrLen = 517;
 		vrLoc = 5540;
@@ -2739,7 +2739,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 187";
 		rLen = 14;
-		rLoc = 5629;
+		rLoc = 5714;
 		rType = 0;
 		vrLen = 1380;
 		vrLoc = 5098;
@@ -2749,7 +2749,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 212";
 		rLen = 0;
-		rLoc = 6504;
+		rLoc = 6491;
 		rType = 0;
 		vrLen = 1286;
 		vrLoc = 5479;
@@ -2759,7 +2759,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 212";
 		rLen = 0;
-		rLoc = 6504;
+		rLoc = 6491;
 		rType = 0;
 		vrLen = 1284;
 		vrLoc = 5481;
@@ -2779,7 +2779,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 212";
 		rLen = 0;
-		rLoc = 6504;
+		rLoc = 6491;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 6272;
@@ -2789,7 +2789,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6498;
+		rLoc = 6485;
 		rType = 0;
 		vrLen = 1286;
 		vrLoc = 5481;
@@ -2799,7 +2799,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6498;
+		rLoc = 6485;
 		rType = 0;
 		vrLen = 1284;
 		vrLoc = 5483;
@@ -2809,7 +2809,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 211";
 		rLen = 0;
-		rLoc = 6498;
+		rLoc = 6485;
 		rType = 0;
 		vrLen = 353;
 		vrLoc = 6272;
@@ -3099,7 +3099,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 272";
 		rLen = 0;
-		rLoc = 7941;
+		rLoc = 7954;
 		rType = 0;
 		vrLen = 1463;
 		vrLoc = 2287;
@@ -3109,10 +3109,147 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
 		name = "LightroomViewController.m: 272";
 		rLen = 0;
-		rLoc = 7941;
+		rLoc = 7954;
 		rType = 0;
 		vrLen = 1376;
 		vrLoc = 2374;
+	};
+	01D17A0212F5014D0071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 272";
+		rLen = 0;
+		rLoc = 7954;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 3170;
+	};
+	01D17A0712F5017F0071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 189";
+		rLen = 0;
+		rLoc = 5762;
+		rType = 0;
+		vrLen = 1478;
+		vrLoc = 4814;
+	};
+	01D17A0812F501800071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 189";
+		rLen = 0;
+		rLoc = 5762;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 4882;
+	};
+	01D17A0912F501A70071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 189";
+		rLen = 0;
+		rLoc = 5762;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 4814;
+	};
+	01D17A0C12F502170071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 013D1E5912F465CF00256227 /* CALayer+Additions.m */;
+		name = "CALayer+Additions.m: 12";
+		rLen = 0;
+		rLoc = 132;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	01D17A0D12F502170071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LightroomViewController.h */;
+		name = "LightroomViewController.h: 16";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 0;
+	};
+	01D17A0E12F502170071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		rLen = 1;
+		rLoc = 185;
+		rType = 1;
+	};
+	01D17A0F12F502170071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 190";
+		rLen = 0;
+		rLoc = 5691;
+		rType = 0;
+		vrLen = 1428;
+		vrLoc = 4948;
+	};
+	01D17A1212F502530071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 190";
+		rLen = 0;
+		rLoc = 5691;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 4902;
+	};
+	01D17A1312F502530071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 190";
+		rLen = 0;
+		rLoc = 5691;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 4982;
+	};
+	01D17A1412F502600071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 190";
+		rLen = 0;
+		rLoc = 5691;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 4902;
+	};
+	01D17A1912F502800071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 155";
+		rLen = 0;
+		rLoc = 4689;
+		rType = 0;
+		vrLen = 1502;
+		vrLoc = 4759;
+	};
+	01D17A1A12F502800071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 155";
+		rLen = 0;
+		rLoc = 4689;
+		rType = 0;
+		vrLen = 1501;
+		vrLoc = 4760;
+	};
+	01D17A1B12F5028E0071F868 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */;
+		name = "LightroomViewController.m: 155";
+		rLen = 0;
+		rLoc = 4689;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 4827;
 	};
 	1D3623240D0F684500981E51 /* LightroomAppDelegate.h */ = {
 		uiCtxt = {
@@ -3143,9 +3280,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* LightroomViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1538, 4088}}";
-			sepNavSelRange = "{7941, 0}";
-			sepNavVisRange = "{2374, 1376}";
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 4060}}";
+			sepNavSelRange = "{4689, 0}";
+			sepNavVisRange = "{4827, 504}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -3491,6 +3628,20 @@
 			01D179FF12F5001C0071F868 /* PBXTextBookmark */ = 01D179FF12F5001C0071F868 /* PBXTextBookmark */;
 			01D17A0012F5001C0071F868 /* PBXTextBookmark */ = 01D17A0012F5001C0071F868 /* PBXTextBookmark */;
 			01D17A0112F5001C0071F868 /* PBXTextBookmark */ = 01D17A0112F5001C0071F868 /* PBXTextBookmark */;
+			01D17A0212F5014D0071F868 /* PBXTextBookmark */ = 01D17A0212F5014D0071F868 /* PBXTextBookmark */;
+			01D17A0712F5017F0071F868 /* PBXTextBookmark */ = 01D17A0712F5017F0071F868 /* PBXTextBookmark */;
+			01D17A0812F501800071F868 /* PBXTextBookmark */ = 01D17A0812F501800071F868 /* PBXTextBookmark */;
+			01D17A0912F501A70071F868 /* PBXTextBookmark */ = 01D17A0912F501A70071F868 /* PBXTextBookmark */;
+			01D17A0C12F502170071F868 /* PBXTextBookmark */ = 01D17A0C12F502170071F868 /* PBXTextBookmark */;
+			01D17A0D12F502170071F868 /* PBXTextBookmark */ = 01D17A0D12F502170071F868 /* PBXTextBookmark */;
+			01D17A0E12F502170071F868 /* PBXTextBookmark */ = 01D17A0E12F502170071F868 /* PBXTextBookmark */;
+			01D17A0F12F502170071F868 /* PBXTextBookmark */ = 01D17A0F12F502170071F868 /* PBXTextBookmark */;
+			01D17A1212F502530071F868 /* PBXTextBookmark */ = 01D17A1212F502530071F868 /* PBXTextBookmark */;
+			01D17A1312F502530071F868 /* PBXTextBookmark */ = 01D17A1312F502530071F868 /* PBXTextBookmark */;
+			01D17A1412F502600071F868 /* PBXTextBookmark */ = 01D17A1412F502600071F868 /* PBXTextBookmark */;
+			01D17A1912F502800071F868 /* PBXTextBookmark */ = 01D17A1912F502800071F868 /* PBXTextBookmark */;
+			01D17A1A12F502800071F868 /* PBXTextBookmark */ = 01D17A1A12F502800071F868 /* PBXTextBookmark */;
+			01D17A1B12F5028E0071F868 /* PBXTextBookmark */ = 01D17A1B12F5028E0071F868 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 013D1E4B12F4572000256227 /* Source Control */;
 		userBuildSettings = {

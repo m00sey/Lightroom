@@ -32,16 +32,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+	//load default from user defaults
 	rows = DEFAULT_PORTRAIT_ROWS;
 	cols = DEFAULT_PORTRAIT_COLS;
+	
 	[self createTiles];
 	//we need to re-draw the tiles on rotation change
 	[[NSNotificationCenter defaultCenter] addObserver:self 
 											 selector:@selector(redrawTiles:) 
 												 name:UIDeviceOrientationDidChangeNotification 
 											   object:nil];
-	
-	//load default from user defaults
 	
 }
 
@@ -79,6 +79,8 @@
 	//kill old ones
 	[[[self view] layer] setSublayers:nil];
 	
+	
+	//encapsulate me
 	for (int row = 0; row < rows; ++row) {
         for (int col = 0; col < cols; ++col) {
             int index = (row * cols) + col;
@@ -93,6 +95,7 @@
 			[arse setNeedsDisplay];
 		}
 	}
+	[[self view] setNeedsDisplay];
 }
 
 - (void)createTiles {
@@ -118,6 +121,8 @@
                                       TILE_MARGIN + row * (TILE_MARGIN + TILE_HEIGHT),
                                       TILE_WIDTH, TILE_HEIGHT);
             tileFrame[index] = frame;
+			
+			//encapsualte me
             Tile *tile = [[Tile alloc] init];
             tile.tileIndex = index;
             tileForFrame[index] = tile;
@@ -184,8 +189,6 @@
 - (void)moveUnheldTilesAwayFromPoint:(CGPoint)location {
 	//bug!
     int frameIndex = [self indexOfClosestFrameToPoint:location];
-	NSLog(@"frame index %d",frameIndex);
-	NSLog(@"held frame index %d", heldFrameIndex);
     if (frameIndex != heldFrameIndex) {
         [CATransaction begin];
 		
@@ -260,18 +263,24 @@
     for (int i = 0; i < DEFAULT_TILE_COUNT; ++i) {
         CGRect frame = tileFrame[i];
         
-        float dx = point.x - CGRectGetMidX(frame);
-        float dy = point.y - CGRectGetMidY(frame);
-		NSLog(@"held tile %d", heldFrameIndex);
-        NSLog(@"dx %f \t dy %f");
+		float dx = point.x - CGRectGetMidX(frame);
+		float dy = point.y - CGRectGetMidY(frame);
+
         float dist = (dx * dx) + (dy * dy);
         if (dist < minDist) {
-
+			//seems like a frame thing, maybe the parent view frame isn't being redrawn
+			//so when we ask for the point we aren't getting the right value?
+			NSLog(@"x %d \t y %d",point.x, point.y);
+			NSLog(@"mid x %d \t mid y %d", CGRectGetMidX(frame), CGRectGetMidY(frame));
+			NSLog(@"held tile %d", heldFrameIndex);
+			NSLog(@"dx %f \t dy %f");
+			NSLog(@"dist %d",dist);
+			NSLog(@"min dist %d", minDist);
+			NSLog(@"Closest Frame to point? %d",i);
             index = i;
             minDist = dist;
         }
     }
-	NSLog(@"Closest Frame to point? %d",index);
     return index;
 }
 
